@@ -33,7 +33,7 @@ Today I shifted from Excel to Python and explored the Superstore dataset in a Ju
 
 💡 The goal was to replicate real-world data exploration and storytelling — all in under 2 hours.
 
-📂 Notebook on GitHub: https://github.com/elem86/day14
+📂 Notebook on GitHub: https://github.com/elem86/day15
 
 ![day15](https://github.com/user-attachments/assets/e19b1061-cfd9-40b6-8ff2-29b50891b17a)
 
