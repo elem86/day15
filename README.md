@@ -16,6 +16,8 @@ Today I shifted from Excel to Python and explored the Superstore dataset in a Ju
   - Generated 5 practical insights with clear visuals
     
 
+    
+
 📊 Insights:
 
   1. Top 5 Customers by Revenue – Who's driving the most sales?
@@ -27,6 +29,7 @@ Today I shifted from Excel to Python and explored the Superstore dataset in a Ju
   4. Average Delivery Time – Distribution of shipping delays
 
   5. States with Most Orders – Where demand is highest geographically
+
 
 
 🛠️ Tools used: Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn
